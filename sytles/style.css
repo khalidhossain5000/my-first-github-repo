@@ -12,8 +12,19 @@ div ol li{
     font-size: 20px;
 
 }
-img{
+div img{
     width: 300px;
     height: 100%;
     margin: auto;
+}
+
+
+.simplesection img{
+    width:900px;
+    height: 100%;
+}
+
+.simplesection p{
+    font-size: 25px;
+    font-weight: 700;
 }
