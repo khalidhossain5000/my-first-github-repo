@@ -1,0 +1,14 @@
+div{
+    color: white;
+    background-color: blue;
+    padding: 15px;
+}
+div h2{
+    color: white;
+    text-align: center;
+}
+
+div ol li{
+    font-size: 20px;
+    
+}
